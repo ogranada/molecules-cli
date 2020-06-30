@@ -1,0 +1,24 @@
+{
+  "name": "molecules-cli",
+  "version": "1.0.0",
+  "description": "Clean architecture generator for typescript",
+  "main": "index.js",
+  "homepage": "https://github.com/ogranada/molecules-cli",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ogranada/molecules-cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^5.1.0",
+    "figlet": "^1.4.0",
+    "prompt-confirm": "^2.0.4"
+  }
+}
